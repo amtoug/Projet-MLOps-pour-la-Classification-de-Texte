@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/748579425258641438/001634b1654d457fbdda452663d4ad5e/artifacts
+end_time: 1746841541707
+entry_point_name: ''
+experiment_id: '748579425258641438'
+lifecycle_stage: active
+run_id: 001634b1654d457fbdda452663d4ad5e
+run_name: GradientBoostingModel
+run_uuid: 001634b1654d457fbdda452663d4ad5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746841300346
+status: 3
+tags: []
+user_id: Abdessamad

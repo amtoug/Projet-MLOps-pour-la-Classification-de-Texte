@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/748579425258641438/9e63fc6508554fb99165114cab99105c/artifacts
+deleted_time: 1746810891726
+end_time: 1746810616799
+entry_point_name: ''
+experiment_id: '748579425258641438'
+lifecycle_stage: deleted
+run_id: 9e63fc6508554fb99165114cab99105c
+run_name: logistic
+run_uuid: 9e63fc6508554fb99165114cab99105c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746810585641
+status: 4
+tags: []
+user_id: Abdessamad

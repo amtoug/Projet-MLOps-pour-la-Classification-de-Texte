@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/748579425258641438/54039edf5db342c7b1c45d0d4f25d373/artifacts
+end_time: 1747016836266
+entry_point_name: ''
+experiment_id: '748579425258641438'
+lifecycle_stage: active
+run_id: 54039edf5db342c7b1c45d0d4f25d373
+run_name: logistic
+run_uuid: 54039edf5db342c7b1c45d0d4f25d373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747016835594
+status: 4
+tags: []
+user_id: Abdessamad

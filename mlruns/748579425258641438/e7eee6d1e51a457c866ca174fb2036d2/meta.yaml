@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/748579425258641438/e7eee6d1e51a457c866ca174fb2036d2/artifacts
+end_time: 1746813586635
+entry_point_name: ''
+experiment_id: '748579425258641438'
+lifecycle_stage: active
+run_id: e7eee6d1e51a457c866ca174fb2036d2
+run_name: MLPClassifier
+run_uuid: e7eee6d1e51a457c866ca174fb2036d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746813554582
+status: 3
+tags: []
+user_id: Abdessamad
