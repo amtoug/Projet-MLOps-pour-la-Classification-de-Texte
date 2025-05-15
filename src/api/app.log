@@ -1,0 +1,115 @@
+2025-05-15 15:11:28,850 - app - INFO - [INFO] Entraînement du modèle Logistic en cours...
+2025-05-15 15:11:49,345 - app - INFO - [INFO] Entraînement du modèle Logistic en cours...
+2025-05-15 15:12:03,831 - app - INFO - [INFO] Entraînement du modèle Logistic en cours...
+2025-05-15 15:14:30,328 - app - INFO - [INFO] Entraînement du modèle Logistic en cours...
+2025-05-15 15:17:28,853 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 15:17:28,855 - python_multipart.multipart - DEBUG - Calling on_field_name with data[0:10]
+2025-05-15 15:17:28,856 - python_multipart.multipart - DEBUG - Calling on_field_data with data[11:19]
+2025-05-15 15:17:28,857 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 15:17:28,865 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 15:17:28,866 - python_multipart.multipart - DEBUG - Calling on_field_name with data[20:28]
+2025-05-15 15:17:28,869 - python_multipart.multipart - DEBUG - Calling on_field_data with data[29:35]
+2025-05-15 15:17:28,871 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 15:17:28,872 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 15:17:28,875 - python_multipart.multipart - DEBUG - Calling on_field_name with data[36:44]
+2025-05-15 15:17:28,877 - python_multipart.multipart - DEBUG - Calling on_field_data with data[45:50]
+2025-05-15 15:17:28,879 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 15:17:28,884 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 15:17:28,907 - python_multipart.multipart - DEBUG - Calling on_field_name with data[51:56]
+2025-05-15 15:17:28,910 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 15:17:28,923 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 15:17:28,934 - python_multipart.multipart - DEBUG - Calling on_field_name with data[58:67]
+2025-05-15 15:17:28,937 - python_multipart.multipart - DEBUG - Calling on_field_data with data[68:74]
+2025-05-15 15:17:28,941 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 15:17:28,943 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 15:17:28,969 - python_multipart.multipart - DEBUG - Calling on_field_name with data[75:88]
+2025-05-15 15:17:28,972 - python_multipart.multipart - DEBUG - Calling on_field_data with data[89:95]
+2025-05-15 15:17:28,973 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 15:17:28,976 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2025-05-15 15:17:30,189 - app - WARNING - amtoug avec role:admin est connecter
+2025-05-15 16:26:18,908 - app - INFO - [INFO] Entraînement du modèle Logistic en cours...
+2025-05-15 16:26:56,521 - app - INFO - [INFO] Entraînement du modèle MLPClassifier en cours...
+2025-05-15 16:45:02,619 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-11' coro=<BaseEventLoop.shutdown_default_executor() running at C:\Users\Abdessamad\AppData\Local\Programs\Python\Python310\lib\asyncio\base_events.py:560>>
+2025-05-15 18:18:55,262 - app - INFO - [INFO] Entraînement du modèle Logistic en cours...
+2025-05-15 18:21:48,691 - app - INFO - [INFO] Entraînement du modèle Logistic en cours...
+2025-05-15 18:22:59,171 - app - INFO - [INFO] Entraînement du modèle Logistic en cours...
+2025-05-15 18:24:39,701 - app - INFO - [INFO] Entraînement du modèle Logistic en cours...
+2025-05-15 18:25:33,377 - app - INFO - [INFO] Entraînement du modèle MLPClassifier en cours...
+2025-05-15 18:29:34,219 - app - INFO - [INFO] Entraînement du modèle Logistic en cours...
+2025-05-15 18:30:59,463 - app - INFO - [INFO] Entraînement du modèle Logistic en cours...
+2025-05-15 18:32:47,645 - app - INFO - [INFO] Entraînement du modèle Logistic en cours...
+2025-05-15 18:43:03,028 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:43:03,047 - python_multipart.multipart - DEBUG - Calling on_field_name with data[0:10]
+2025-05-15 18:43:03,053 - python_multipart.multipart - DEBUG - Calling on_field_data with data[11:19]
+2025-05-15 18:43:03,062 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:43:03,079 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:43:03,086 - python_multipart.multipart - DEBUG - Calling on_field_name with data[20:28]
+2025-05-15 18:43:03,310 - python_multipart.multipart - DEBUG - Calling on_field_data with data[29:38]
+2025-05-15 18:43:03,319 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:43:03,323 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:43:03,330 - python_multipart.multipart - DEBUG - Calling on_field_name with data[39:47]
+2025-05-15 18:43:03,518 - python_multipart.multipart - DEBUG - Calling on_field_data with data[48:53]
+2025-05-15 18:43:03,584 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:43:03,651 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:43:03,666 - python_multipart.multipart - DEBUG - Calling on_field_name with data[54:59]
+2025-05-15 18:43:03,668 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:43:03,682 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:43:03,687 - python_multipart.multipart - DEBUG - Calling on_field_name with data[61:70]
+2025-05-15 18:43:03,718 - python_multipart.multipart - DEBUG - Calling on_field_data with data[71:77]
+2025-05-15 18:43:03,747 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:43:03,767 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:43:03,783 - python_multipart.multipart - DEBUG - Calling on_field_name with data[78:91]
+2025-05-15 18:43:03,815 - python_multipart.multipart - DEBUG - Calling on_field_data with data[92:98]
+2025-05-15 18:43:03,817 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:43:03,844 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2025-05-15 18:43:50,738 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:43:50,739 - python_multipart.multipart - DEBUG - Calling on_field_name with data[0:10]
+2025-05-15 18:43:50,742 - python_multipart.multipart - DEBUG - Calling on_field_data with data[11:19]
+2025-05-15 18:43:50,746 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:43:50,770 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:43:50,772 - python_multipart.multipart - DEBUG - Calling on_field_name with data[20:28]
+2025-05-15 18:43:50,773 - python_multipart.multipart - DEBUG - Calling on_field_data with data[29:39]
+2025-05-15 18:43:50,774 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:43:50,776 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:43:50,778 - python_multipart.multipart - DEBUG - Calling on_field_name with data[40:48]
+2025-05-15 18:43:50,813 - python_multipart.multipart - DEBUG - Calling on_field_data with data[49:54]
+2025-05-15 18:43:50,842 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:43:50,907 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:43:50,981 - python_multipart.multipart - DEBUG - Calling on_field_name with data[55:60]
+2025-05-15 18:43:50,994 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:43:51,009 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:43:51,046 - python_multipart.multipart - DEBUG - Calling on_field_name with data[62:71]
+2025-05-15 18:43:51,078 - python_multipart.multipart - DEBUG - Calling on_field_data with data[72:78]
+2025-05-15 18:43:51,109 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:43:51,160 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:43:51,202 - python_multipart.multipart - DEBUG - Calling on_field_name with data[79:92]
+2025-05-15 18:43:51,238 - python_multipart.multipart - DEBUG - Calling on_field_data with data[93:99]
+2025-05-15 18:43:51,270 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:43:51,296 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2025-05-15 18:43:52,408 - app - WARNING - Abdessamad avec role:utilisateur est connecté
+2025-05-15 18:44:06,578 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:44:06,579 - python_multipart.multipart - DEBUG - Calling on_field_name with data[0:10]
+2025-05-15 18:44:06,582 - python_multipart.multipart - DEBUG - Calling on_field_data with data[11:19]
+2025-05-15 18:44:06,583 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:44:06,585 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:44:06,599 - python_multipart.multipart - DEBUG - Calling on_field_name with data[20:28]
+2025-05-15 18:44:06,680 - python_multipart.multipart - DEBUG - Calling on_field_data with data[29:35]
+2025-05-15 18:44:06,686 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:44:06,690 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:44:06,710 - python_multipart.multipart - DEBUG - Calling on_field_name with data[36:44]
+2025-05-15 18:44:06,852 - python_multipart.multipart - DEBUG - Calling on_field_data with data[45:50]
+2025-05-15 18:44:06,889 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:44:07,001 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:44:07,128 - python_multipart.multipart - DEBUG - Calling on_field_name with data[51:56]
+2025-05-15 18:44:07,154 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:44:07,199 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:44:07,224 - python_multipart.multipart - DEBUG - Calling on_field_name with data[58:67]
+2025-05-15 18:44:07,231 - python_multipart.multipart - DEBUG - Calling on_field_data with data[68:74]
+2025-05-15 18:44:07,235 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:44:07,238 - python_multipart.multipart - DEBUG - Calling on_field_start with no data
+2025-05-15 18:44:07,240 - python_multipart.multipart - DEBUG - Calling on_field_name with data[75:88]
+2025-05-15 18:44:07,251 - python_multipart.multipart - DEBUG - Calling on_field_data with data[89:95]
+2025-05-15 18:44:07,262 - python_multipart.multipart - DEBUG - Calling on_field_end with no data
+2025-05-15 18:44:07,268 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2025-05-15 18:44:08,489 - app - WARNING - amtoug avec role:admin est connecté
