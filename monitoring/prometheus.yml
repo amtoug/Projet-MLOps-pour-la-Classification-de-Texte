@@ -1,0 +1,8 @@
+global:
+  scrape_interval: 15s  # Intervalle de scrutation de 15 secondes
+  scrape_timeout: 10s   # Délai d'attente avant de considérer la requête échouée
+
+scrape_configs:
+  - job_name: 'model'
+    static_configs:
+      - targets: ['localhost:8001']
