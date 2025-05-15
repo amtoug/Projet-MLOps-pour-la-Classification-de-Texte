@@ -1,0 +1,38 @@
+import mlflow
+import mlflow.sklearn
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
+
+def train():
+# Chargement des données
+    X, y = load_iris(return_X_y=True)
+    X_train, X_test, y_train, y_test = train_test_split(X, y)
+    mlflow.set_experiment("Test")
+    mlflow.set_registry_uri("http://127.0.0.1:5000")
+    with mlflow.start_run():
+        # Paramètres
+        n_estimators = 100
+        max_depth = 5
+
+        # Enregistrement des paramètres
+        mlflow.log_param("n_estimators", n_estimators)
+        mlflow.log_param("max_depth", max_depth)
+
+        # Entraînement
+        model = RandomForestClassifier(n_estimators=n_estimators, max_depth=max_depth)
+        model.fit(X_train, y_train)
+
+        # Prédiction
+        preds = model.predict(X_test)
+        acc = accuracy_score(y_test, preds)
+
+        # Log de la métrique
+        mlflow.log_metric("accuracy", acc)
+
+        # Sauvegarde du modèle
+        mlflow.sklearn.log_model(model, artifact_path="model")
+
+if __name__ == "main":
+    train()
