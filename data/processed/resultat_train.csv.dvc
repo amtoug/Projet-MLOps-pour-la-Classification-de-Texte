@@ -1,0 +1,5 @@
+outs:
+- md5: 259676ee95e5bf93ef1c749655cdfc89
+  size: 30616432
+  hash: md5
+  path: resultat_train.csv
